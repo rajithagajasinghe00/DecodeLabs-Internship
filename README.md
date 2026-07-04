@@ -9,7 +9,7 @@ once you've uploaded everything.**
 
 | # | Project | Skills | Open in Colab |
 |---|---------|--------|----------------|
-| 1 | [Data Cleaning](./project-1-data-cleaning) | missing values, duplicates, formatting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajithagajasinghe00/data-analytics-projects/blob/main/project-1-data-cleaning/project1_data_cleaning.ipynb) |
+| 1 | [Data Cleaning](./project-1-data-cleaning) | missing values, duplicates, formatting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rajithagajasinghe00/DecodeLabs-Internship/blob/main/project-1-data-cleaning/project1_data_cleaning.ipynb) |
 | 2 | [Exploratory Data Analysis](./project-2-eda) | statistics, outliers, charts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajithagajasinghe00/data-analytics-projects/blob/main/project-2-eda/project2_eda.ipynb) |
 | 3 | [SQL Data Analysis](./project-3-sql-analysis) | SELECT, WHERE, GROUP BY, HAVING | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajithagajasinghe00/data-analytics-projects/blob/main/project-3-sql-analysis/project3_sql_analysis.ipynb) |
 
